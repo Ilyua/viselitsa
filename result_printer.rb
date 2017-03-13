@@ -63,5 +63,4 @@ class ResultPrinter
   def cls
     system("clear") || system("cls")
   end
-
 end
